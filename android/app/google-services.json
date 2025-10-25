@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "460148472661",
+    "project_id": "community-circle-63d70",
+    "storage_bucket": "community-circle-63d70.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460148472661:android:f6437c241651e53bc4cddc",
+        "android_client_info": {
+          "package_name": "com.dexbytes.communityCircle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYo2gqWBOVyqRoJnLaYZbwVxPGO-bJAJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460148472661:android:d54c66d68e28a7e0c4cddc",
+        "android_client_info": {
+          "package_name": "com.dexbytes.community_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYo2gqWBOVyqRoJnLaYZbwVxPGO-bJAJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
